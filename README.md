@@ -95,6 +95,7 @@ Open `.eslintrc.json`
         "single"
     ]
 }
+}
 </pre>
 
 This removes the error messages from your console.log statements
